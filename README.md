@@ -28,3 +28,7 @@ $ docker build . -t <name>
 ![Alt text](/screenshots/screenshot-3.png?raw=true)
 
 ![Alt text](/screenshots/screenshot-4.png?raw=true)
+
+![Alt text](/screenshots/screenshot-5.png?raw=true)
+
+![Alt text](/screenshots/screenshot-6.png?raw=true)
